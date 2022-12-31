@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shooting-Bullet/static/css/main.b9e073bb.css",
+    "main.js": "/Shooting-Bullet/static/js/main.79f1488b.js",
+    "index.html": "/Shooting-Bullet/index.html",
+    "main.b9e073bb.css.map": "/Shooting-Bullet/static/css/main.b9e073bb.css.map",
+    "main.79f1488b.js.map": "/Shooting-Bullet/static/js/main.79f1488b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e073bb.css",
+    "static/js/main.79f1488b.js"
+  ]
+}
