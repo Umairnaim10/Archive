@@ -68,12 +68,12 @@ function App() {
   return (
     <>
       <h1>Shooting Bullets</h1>
-      <span className="controls">
+      {/* <span className="controls">
         <div>Move</div>
         <div>Arrow Keys</div>
         <div>Shoot</div>
         <div>Space bar</div>
-      </span>
+      </span> */}
       <canvas ref={canvas} width={550} height={600}></canvas>
     </>
   );
